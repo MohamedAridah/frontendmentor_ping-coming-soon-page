@@ -1,4 +1,4 @@
-![Challenge Design](https://raw.githubusercontent.com/MohamedAridah/frontendmentor_order-summary-component/main/design/desktop-design.jpg)
+![Challenge Design](https://raw.githubusercontent.com/MohamedAridah/frontendmentor_ping-coming-soon-page/main/design/desktop-design.jpg)
 
 <div align="center">
  <h1>Ping coming soon page</h1>
